@@ -6,7 +6,7 @@
   <groupId>com.redhat.events</groupId>
   <artifactId>event-analysis-web</artifactId>
   <version>1.0.0</version>
-   <properties>
+  <properties>
 		<NEXUSREPO>localhost</NEXUSREPO>
 	</properties>
 
